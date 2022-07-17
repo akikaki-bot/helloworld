@@ -22,7 +22,14 @@ html {
 }
 
 .center {
+  position: relative;
     text-align: center;
+    align-items: center;
+    top: 40%;
+  }
+
+a {
+  color : #eea882
 }
 
 
