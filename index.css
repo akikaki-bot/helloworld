@@ -25,12 +25,17 @@ html {
   position: relative;
     text-align: center;
     align-items: center;
-    width: 80%;
-    padding: 10%;
+    top: 40%;
+  }
+_::-webkit-full-page-media,
+_:future,
+ .center {
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
   }
 
 a {
-  color : #eea882
+  color : #000000
 }
 
 
