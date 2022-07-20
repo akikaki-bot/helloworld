@@ -32,5 +32,16 @@ a {
 color : #000000
 }
 
+.full {
+  min-height: 100vh;
+}
 
+.right_down_main {
+  position: relative;
+}
 
+.right_down_children {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
