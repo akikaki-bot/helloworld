@@ -45,3 +45,9 @@ color : #000000
   right: 0;
   bottom: 0;
 }
+
+#background_1 {
+  min-height: 100vh;
+  min-width: 300px;
+}
+
